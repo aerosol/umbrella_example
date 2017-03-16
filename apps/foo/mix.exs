@@ -19,6 +19,6 @@ defmodule Foo.Mixfile do
   end
 
   defp deps do
-    [{:poison, "~> 3.0.0"}]
+    [{:poison, "~> 3.1"}]
   end
 end
